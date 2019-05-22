@@ -8,7 +8,8 @@
     Multiple line comments starts and ends with three quotes
 """
 # NOTE: Single quotes and double quotes are same thing in python
-
+# NOTE: No main() function required in Python, it automatically starts
+# executing from the beginning of program
 
 ### PRINT STATEMENTS ###
 # Print statements are used to display the content in application
