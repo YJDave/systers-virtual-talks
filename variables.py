@@ -49,6 +49,7 @@ print(type(str(no_of_attendees)))
 print(type(is_anita_attending))
 
 # Convert to integer variables using `int`
+print(int('-12'))
 print(int('12'))
 print(type(int('12')))
 # ERROR
@@ -57,6 +58,7 @@ print(type(int('12')))
 # Convert to boolean variables using `bool`
 print("Any non-zero value returns True and zero returns False")
 print(bool(12))
+print(bool(-12))
 print(bool(0))
 
 print("Any non empty string returns True and empty string returns False")
